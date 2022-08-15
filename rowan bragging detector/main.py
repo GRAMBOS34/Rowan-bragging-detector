@@ -1,4 +1,3 @@
-import enum
 import json
 
 keywords = open('keywords.json')
