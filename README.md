@@ -15,4 +15,5 @@ Basic process:
 3) This program won't be the fastest out there because I'm too lazy to make it so
 4) This would've been easier if we mostly talked through Discord tbh since Discord has an API(Application Programming Interface)
 
-![copium](https://user-images.githubusercontent.com/70924641/184627605-775d0638-73dc-4075-81d5-b228b2651cd1.jpg)
+# Updates
+Aug. 15, 2022: Implemented the basic functionality of the "Bragging Confidence" system
