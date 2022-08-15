@@ -10,7 +10,7 @@ Basic process:
 4) Returns whatever I put as the response
 
 # Miscellaneous notes
-1) FB and by extension, Messenger, doesn't have an api so this is a pain in the ass to make 
+1) FB and by extension, Messenger, doesn't have an API(Application Programming Interface) so this is a pain in the ass to make 
 2) Feel free to edit the code, I won't stop you because I physically don't care and can't anyway
-3) This program won't be the fastest out there because I'm too lazy to do so
-4) This would've been easier if we mostly talked through Discord tbh
+3) This program won't be the fastest out there because I'm too lazy to make it so
+4) This would've been easier if we mostly talked through Discord tbh since Discord has an API(Application Programming Interface)
