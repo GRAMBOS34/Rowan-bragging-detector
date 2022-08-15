@@ -1,21 +1,25 @@
 {
     "Bragging":[
         {
-            "donut" : "Definitely bragging",
-            "doughnut" : "Definitely bragging",
-            "steak" : "Definitely bragging",
-            "ate" : "Certainly bragging", 
-            "craving" : "Not bragging",
-            "krispy" : "Very certain",
-            "kreme" : "Very certain",
-            "dunkin" : "Very certain",
-            "chicken" : "Maybe",
-            "lemon" : "Not bragging",
-            "bacon" : "Certainly not",
-            "want" : "Definitely not",
-            "donuts" : "Very certain",
-            "doughnuts" : "Very certain",
-            "got" : "Certainly not"
+            "donut" : 4 ,
+            "doughnut" : 4,
+            "steak" : 4,
+            "ate" : 5, 
+            "craving" : 2,
+            "krispy" : 5,
+            "kreme" : 5,
+            "dunkin" : 5,
+            "chicken" : 3,
+            "lemon" : 1,
+            "bacon" : 2,
+            "want" : 0,
+            "donuts" : 5,
+            "doughnuts" : 5,
+            "got" : 1,
+            "steaks" : 5,
+            "bread" : 4,
+            "ice" : 3,
+            "cream" : 3
         }
     ]
 }
