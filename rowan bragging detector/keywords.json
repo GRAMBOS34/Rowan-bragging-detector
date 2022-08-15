@@ -1,5 +1,21 @@
 {
-    "Bragging_words":{
-        
-    }
+    "Bragging":[
+        {
+            "donut" : "Definitely bragging",
+            "doughnut" : "Definitely bragging",
+            "steak" : "Definitely bragging",
+            "ate" : "Certainly bragging", 
+            "craving" : "Not bragging",
+            "krispy" : "Very certain",
+            "kreme" : "Very certain",
+            "dunkin" : "Very certain",
+            "chicken" : "Maybe",
+            "lemon" : "Not bragging",
+            "bacon" : "Certainly not",
+            "want" : "Definitely not",
+            "donuts" : "Very certain",
+            "doughnuts" : "Very certain",
+            "got" : "Certainly not"
+        }
+    ]
 }
