@@ -8,5 +8,5 @@ Basic process:
 4) Returns whatever I put as the response
 
 
-#TO CLARIFY
-#This program will only detect one person's messages 
+# TO CLARIFY
+# This program will only detect one person's messages 
