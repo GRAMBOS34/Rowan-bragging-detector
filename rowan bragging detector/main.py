@@ -15,6 +15,7 @@ print(sentence)
 def calculation(sentence, sentence_arr):
     sentence_val = 0
 
+    #this loop still doesnt work as intended (trying to fix)
     for i in sentence: 
         for element in data["Bragging"]:
             print(element[i])
