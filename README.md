@@ -6,3 +6,7 @@ Basic process:
 2) Sees if the message contains any words that might suggest bragging i.e. "Donut", "Steak", "Ate", etc.
 3) Assigns the whole message a confidence value to determine how sure it is that he's bragging 
 4) Returns whatever I put as the response
+
+
+#TO CLARIFY
+#This program will only detect one person's messages 
