@@ -13,6 +13,6 @@ Basic process:
 1) FB and by extension, Messenger, doesn't have an api so this is a pain in the ass to make 
 2) Feel free to edit the code, I won't stop you because I physically don't care and can't anyway
 3) This program won't be the fastest out there because 
-    a) I don't have a good understanding of Big O notation (google that if you're interested)
-    b) I'm too lazy to make it faster
+a) I don't have a good understanding of Big O notation (google that if you're interested)
+b) I'm too lazy to make it faster
 4) This would've been easier if we mostly talked through Discord tbh
