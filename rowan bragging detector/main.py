@@ -14,7 +14,7 @@ print(sentence)
 def calculation(sentence, sentence_arr):
     sentence_val = 0
 
-    #I fixed it :D
+    #Finally fixed it :D
     for x in sentence: 
         for element in data["Bragging"]:
             try:
