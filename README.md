@@ -1,7 +1,7 @@
 # Rowan-bragging-detector
 Detects if Rowan or anyone else is bragging about food
 
-# THIS PROGRAM WILL ONLY DETECT ONE PERSON'S MESSAGES AT A TIME
+# THIS PROGRAM WILL ONLY DETECT ONE PERSON'S MESSAGES AT A TIME FOR SPEED
 
 Basic process:
 1) Takes all messages sent by Rowan or anyone else specifically. All other messages are ignored
