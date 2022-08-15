@@ -15,4 +15,5 @@ Basic process:
 
 # Updates
 Aug. 15, 2022: Implemented the basic functionality of the "Bragging Confidence" system
+
 Aug. 15, 2022 (20:11): Started working on the connection code :D
