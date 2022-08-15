@@ -15,30 +15,25 @@ print(sentence)
 def calculation(sentence, sentence_arr):
     sentence_val = 0
 
-    #this loop still doesnt work as intended (trying to fix)
-    for i in sentence: 
+    #I fixed it :D
+    for x in sentence: 
         for element in data["Bragging"]:
-            print(element[i])
             try:
-                if element[i] == "Certainly not":
-                    sentence_arr.append(-2)
-                    print(element[i]) 
-
-                elif element[i] == "Not bragging":
-                    sentence_arr.append(-1)
-                    print(element[i]) 
-
-                elif element[i] == "Maybe":
-                    sentence_arr.append(0)
-                    print(element[i]) 
-
-                elif element[i] == "Certainly bragging":
+                word = element[x]
+                if word == 1:
                     sentence_arr.append(1)
-                    print(element[i])  
 
-                elif element[i] == "Definitely bragging":
+                elif word == 2:
                     sentence_arr.append(2)
-                    print(element[i])         
+
+                elif word == 3:
+                    sentence_arr.append(3)
+
+                elif word == 4:
+                    sentence_arr.append(4) 
+
+                elif word == 5:
+                    sentence_arr.append(5)    
             except:
                 pass
 
