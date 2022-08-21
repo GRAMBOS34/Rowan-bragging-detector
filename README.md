@@ -19,3 +19,5 @@ Aug. 15, 2022: Implemented the basic functionality of the "Bragging Confidence" 
 Aug. 15, 2022 (20:11): Started working on the connection code :D
 
 Aug. 15, 2022 (20:14): Figured out that I can't connect to Messenger using code so I'll try something else (Maybe screen scraping idk)
+
+Aug. 21, 2022 (18:17): I FOUND A WAY TIME TO TRY AND IMPLEMENT IT (web scraping)
