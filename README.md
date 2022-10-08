@@ -21,3 +21,5 @@ Aug. 15, 2022 (20:11): Started working on the connection code :D
 Aug. 15, 2022 (20:14): Figured out that I can't connect to Messenger using code so I'll try something else (Maybe screen scraping idk)
 
 Aug. 21, 2022 (18:17): I FOUND A WAY TIME TO TRY AND IMPLEMENT IT (web scraping)
+
+Oct. 10m 2022 (18:13): Might abandon this got stuck on the facebook connection thing
